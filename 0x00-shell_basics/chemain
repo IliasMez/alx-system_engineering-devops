@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Afficher le chemin absolu du répertoire actuel
+echo "Chemin du répertoire actuel : $PWD"
+
+# Utiliser la commande pwd pour afficher le chemin absolu du répertoire actuel
+echo "Chemin du répertoire actuel : $(pwd)"
+

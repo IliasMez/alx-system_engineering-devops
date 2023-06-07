@@ -1,0 +1,5 @@
+#!/bin/bash
+# Répertoire à modifier
+directory="/Users/mohamedayoubzoubir/Desktop/alx/lunix_alx/alx-system_engineering-devops/0x00-shell_basics"
+# Donner la permission d'exécution à tous les fichiers du répertoire
+chmod -R +x "$directory"
