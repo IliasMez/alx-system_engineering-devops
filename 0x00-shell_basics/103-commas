@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -AF1 --format=commas | sed -e 's/,$/\n/'
+ls -mpav
